@@ -1,0 +1,25 @@
+{
+	"name": "uspto-open-patent-examination",
+	"version": "0.1.0",
+	"description": "This service is intended to access and parse .xml data from the U.S. Patent and Trademark Office regarding each week's new snapshot of patent applications.  In turn, this service is intended to align notifications about these new patents with users who have expressed an interest in topics being covered by said applications.",
+	"author": "J.E. Turcotte <joshua.eric.turcotte@gmail.com>",
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jeturcotte/uspto_open_patent_examination",
+	},
+	"bugs": {
+		"url": "https://github.com/jeturcotte/uspto_open_patent_examination/issues"
+	}
+	"keywords": [
+		"USPTO", "Patent", "Application", "Crowdsource"
+	],
+	"dependencies": {
+		"restify": "2.8.x",
+		"xml2js": "0.4.x",
+	},
+	"devDependencies": {},
+	"private": true,
+	"analyze": true,
+	"license": "MIT"
+}
