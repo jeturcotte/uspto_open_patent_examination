@@ -6,17 +6,20 @@
 	"contributors": [],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jeturcotte/uspto_open_patent_examination",
+		"url": "https://github.com/jeturcotte/uspto_open_patent_examination"
 	},
 	"bugs": {
 		"url": "https://github.com/jeturcotte/uspto_open_patent_examination/issues"
-	}
+	},
 	"keywords": [
-		"USPTO", "Patent", "Application", "Crowdsource"
+		"USPTO",
+		"Patent",
+		"Application",
+		"Crowdsource"
 	],
 	"dependencies": {
 		"restify": "2.8.x",
-		"xml2js": "0.4.x",
+		"xml2js": "0.4.x"
 	},
 	"devDependencies": {},
 	"private": true,
